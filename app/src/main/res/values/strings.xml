@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ReportCardApplication</string>
+    <string name="view_me">Viewing All Studetns...</string>
+    <string name="error_message_data">No Data found</string>
+    <string name="id">"ID: "</string>
+    <string name="name">"Name: "</string>
+    <string name="surname">"Surname: "</string>
+    <string name="cell">"CellNo.: "</string>
+    <string name="address">"Address: "</string>
+    <string name="empty_string">" "</string>
+    <string name="subject">"Subject: "</string>
+    <string name="test1">"Test 1: "</string>
+    <string name="test2">"Test 2: "</string>
+    <string name="message_success">"Successful "</string>
+
+
+</resources>
